@@ -16,7 +16,7 @@ The prepared datasets are used to train two independent YOLO object detection mo
 - Selected relevant frames containing steel rods and rod bundles.
 - Saved extracted images for dataset preparation.
 
-**Script:** `extract_frames.py`
+**Script:** `collect_frames.py`
 
 ### 2. Dataset Collection and Organization
 
