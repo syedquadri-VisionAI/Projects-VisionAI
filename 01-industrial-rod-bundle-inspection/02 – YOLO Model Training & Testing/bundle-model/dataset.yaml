@@ -1,6 +1,6 @@
 # Bundle Dataset Configuration
 
-path: C:/Users/syedq/OneDrive/Desktop/python_practice/spark_and_spectra/my_dataset/rod_dataset
+path: C:/path/to/my_dataset/rod_dataset
 
 train: images/train
 val: images/val
@@ -8,4 +8,4 @@ val: images/val
 nc: 1
 
 names:
-  0: rod
+  0: bundle
