@@ -10,7 +10,7 @@ from ultralytics import YOLO
 # ==========================================
 
 MODEL_PATH = (
-    r"C:\path\ti\model\best.pt"
+    r"C:\path\to\model\best.pt"
 )
 
 # ==========================================
