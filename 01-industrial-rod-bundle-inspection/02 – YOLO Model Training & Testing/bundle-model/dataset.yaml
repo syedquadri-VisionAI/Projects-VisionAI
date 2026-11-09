@@ -1,6 +1,6 @@
 # Bundle Dataset Configuration
 
-path: C:/path/to/my_dataset/rod_dataset
+path: C:/path/to/my_dataset/bundle_dataset
 
 train: images/train
 val: images/val
