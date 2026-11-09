@@ -5,10 +5,10 @@ from ultralytics import YOLO
 
 # ---------------- CONFIGURATION ----------------
 
-MODEL_PATH = "C:/Users/syedq/OneDrive/Desktop/python_practice/ml_training/runs/rod/rod_detection/weights/best.pt"
-VIDEO_PATH = r"C:\Users\syedq\OneDrive\Desktop\python_practice\spark_and_spectra\Video\Bundle.mp4"
+MODEL_PATH = "C:/path/to/rod/rod_detection/weights/best.pt"
+VIDEO_PATH = r"C:\path\to\source\Video\Bundle.mp4"
 
-OUTPUT_DIR = Path("C:/Users/syedq/OneDrive/Desktop/python_practice/ml_training/spectra_dataset/unclassified")
+OUTPUT_DIR = Path("C:/path\to\store\cropped\rod\heads/spectra_dataset/unclassified")
 
 CONFIDENCE = 0.40
 FRAME_INTERVAL = 30       # Process every 30 frames
