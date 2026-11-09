@@ -11,11 +11,11 @@ from ultralytics import YOLO
 # ==================================================
 
 MODEL_PATH = Path(
-    r"C:\Users\syedq\OneDrive\Desktop\python_practice\ml_training\runs\rod\rod_detection\weights\best.pt"
+    r"C:\path\to\model\rod_detection\weights\best.pt"
 )
 
 OUTPUT_DIR = Path(
-    r"C:\Users\syedq\OneDrive\Desktop\python_practice\ml_training\rod_test_results"
+    r"C:\path\to\save\results"
 )
 
 CONFIDENCE = 0.25
