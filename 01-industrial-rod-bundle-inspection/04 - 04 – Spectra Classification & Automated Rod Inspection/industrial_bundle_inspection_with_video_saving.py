@@ -14,9 +14,9 @@ from ultralytics import YOLO
 # 1. MODEL CONFIGURATION
 # ============================================================
 
-BUNDLE_MODEL_PATH = r"C:/Users\syedq\OneDrive\Desktop\python_practice\ml_training\bundle_runs\bundle\bundle_detection\weights\best.pt"
-ROD_MODEL_PATH = r"C:\Users\syedq\OneDrive\Desktop\python_practice\ml_training\runs\rod\rod_detection\weights\best.pt"
-SPECTRA_MODEL_PATH = r"C:\Users\syedq\OneDrive\Desktop\python_practice\ml_training\runs\classify\runs\spectra\three_class_classifier\weights\best.pt"
+BUNDLE_MODEL_PATH = r"C:/path\to\bundle\bundle_detection\weights\best.pt"
+ROD_MODEL_PATH = r"C:\path\to\rod\rod_detection\weights\best.pt"
+SPECTRA_MODEL_PATH = r"C:\path\to\spectra\three_class_classifier\weights\best.pt"
 
 ROD_CONF = 0.40
 BUNDLE_CONF = 0.40
