@@ -10,9 +10,7 @@ from ultralytics import YOLO
 # ==========================================
 
 MODEL_PATH = (
-    r"C:\Users\syedq\OneDrive\Desktop\python_practice"
-    r"\ml_training\runs\bundle\bundle_detection"
-    r"\weights\best.pt"
+    r"C:\path\ti\model\best.pt"
 )
 
 # ==========================================
@@ -20,8 +18,7 @@ MODEL_PATH = (
 # ==========================================
 
 OUTPUT_DIR = (
-    r"C:\Users\syedq\OneDrive\Desktop\python_practice"
-    r"\ml_training\bundle_video_results"
+    r"C:\path\to\save\the\results"
 )
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
