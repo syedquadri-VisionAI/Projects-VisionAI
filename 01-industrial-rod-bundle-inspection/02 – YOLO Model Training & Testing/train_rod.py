@@ -11,11 +11,11 @@ from ultralytics import YOLO
 # ==================================================
 
 ORIGINAL_DATASET = Path(
-    r"C:\Users\syedq\OneDrive\Desktop\python_practice\spark_and_spectra\my_dataset\rod_dataset"
+    r"C:\path\to\my_dataset\rod_dataset"
 )
 
 TRAINING_FOLDER = Path(
-    r"C:\Users\syedq\OneDrive\Desktop\python_practice\ml_training"
+    r"C:\path\to\traing\folder"
 )
 
 FILTERED_DATASET = TRAINING_FOLDER / "filtered_rod_dataset"
