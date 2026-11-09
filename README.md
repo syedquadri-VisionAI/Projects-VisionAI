@@ -39,7 +39,7 @@ This repository is maintained by Syed Quadri and documents practical computer vi
 
 **GitHub:** https://github.com/syedquadri-VisionAI
 
-**LinkedIn:** Add your LinkedIn profile URL here.
+**LinkedIn:** https://linkedin.com/in/syed-khadar-basha-quadri-4179251a7
 
 ---
 
