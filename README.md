@@ -35,7 +35,7 @@ An end-to-end computer vision prototype for automated steel rod bundle inspectio
 
 This repository is maintained by Syed Quadri and documents practical computer vision development, experimentation and industrial AI applications.
 
-**Portfolio:** https://quadri-ai.preview.emergentagent.com/
+**Portfolio:** https://syedquadri-visionai.github.io/portfolio
 
 **GitHub:** https://github.com/syedquadri-VisionAI
 
