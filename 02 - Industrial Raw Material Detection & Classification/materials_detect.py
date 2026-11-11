@@ -24,7 +24,7 @@ MODEL_PATH = (
 
 # Manually enter your input video path
 VIDEO_PATH = Path(
-    r"C:/Users/syedq/OneDrive/Desktop/Projects/raw_dataset/material_inspection_sample_videos/stone_conveyor.mp4"
+    r"C:path/to/source/or/rtsp"
 )
 
 # Output directory
