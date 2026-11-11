@@ -5,7 +5,7 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 
 # Video location
-VIDEO_PATH = r"C:\Users\syedq\OneDrive\Desktop\Projects\raw_dataset\material_inspection_sample_videos\stone_conveyor (3).mp4"
+VIDEO_PATH = r"path/to/video/to/extract/frames"
 
 # Output folder
 OUTPUT_DIR = BASE_DIR / "extracted_frames2"
