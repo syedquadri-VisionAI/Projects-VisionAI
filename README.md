@@ -1,5 +1,4 @@
 # Projects-VisionAI
-# Projects-VisionAI
 
 ### Computer Vision | Deep Learning | Industrial AI | Automation
 
@@ -13,7 +12,7 @@ This repository showcases practical implementations, experiments and end-to-end 
 
 An end-to-end computer vision prototype for automated steel rod bundle inspection using Python, OpenCV and YOLO.
 
-**Project modules:**
+**Project Modules:**
 - Dataset Collection & Annotation using LabelImg.
 - YOLO Model Training & Testing.
 - Integrated Rod & Bundle Detection, Tracking and Counting.
@@ -21,6 +20,28 @@ An end-to-end computer vision prototype for automated steel rod bundle inspectio
 **Key Technologies:** Python, OpenCV, PyTorch, Ultralytics YOLO, LabelImg.
 
 [Explore Project →](01-industrial-rod-bundle-inspection/)
+
+---
+
+### 02. Industrial Raw Material Detection & Classification
+
+A computer vision project for detecting and classifying industrial raw materials from images and video footage using a custom-trained YOLO11 model.
+
+**Detection Classes:**
+- Dolomite
+- Limestone
+- Iron Ore
+
+**Project Modules:**
+- Video Frame Extraction & Dataset Preparation.
+- Image Annotation and YOLO Dataset Configuration.
+- Custom YOLO11 Model Training.
+- Material Detection & Classification from Video.
+- Detection Visualization and Result Screenshots.
+
+**Key Technologies:** Python, OpenCV, PyTorch, Ultralytics YOLO11, LabelImg.
+
+[Explore Project →](02%20-%20Industrial%20Raw%20Material%20Detection%20%26%20Classification/)
 
 ## Technical Areas
 
@@ -30,6 +51,7 @@ An end-to-end computer vision prototype for automated steel rod bundle inspectio
 - Video Analytics & Object Tracking
 - Industrial AI & Machine Vision
 - Edge AI & Industrial Automation
+- AI-Based Industrial Inspection
 
 ## About
 
