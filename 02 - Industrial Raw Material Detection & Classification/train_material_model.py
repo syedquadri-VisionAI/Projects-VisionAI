@@ -13,7 +13,7 @@ from ultralytics import YOLO
 # =====================================================
 
 BASE_DIR = Path(
-    r"C:\Users\syedq\OneDrive\Desktop\Projects\raw_dataset\material_inspection"
+    r"C:\path/to/dataset/folder"
 )
 
 DATASET_DIR = BASE_DIR / "my_dataset"
