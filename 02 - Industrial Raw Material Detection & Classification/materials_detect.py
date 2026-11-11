@@ -10,7 +10,7 @@ from ultralytics import YOLO
 # =====================================================
 
 BASE_DIR = Path(
-    r"C:\Users\syedq\OneDrive\Desktop\Projects\raw_dataset\material_inspection"
+    r"C:/path/to/base/directory/of/project"
 )
 
 # Trained YOLO model
