@@ -1,0 +1,12 @@
+
+path: C:/Users/syedq/OneDrive/Desktop/Projects/raw_dataset/material_inspection/my_dataset
+
+train: images/train
+val: images/val
+
+nc: 3
+
+names:
+  0: iron_ore
+  1: dolomite
+  2: limestone
