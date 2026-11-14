@@ -9,14 +9,14 @@ from ultralytics import YOLO
 # 1. USER CONFIGURATION
 # ============================================================
 
-MODEL_PATH = r"C:\Users\syedq\OneDrive\Desktop\Projects\raw_dataset\conveyor_foreign_material_detection\Conveyor_FOD_Training\Foreign_Object_Detection\weights\best.pt"
+MODEL_PATH = r"path\to\trained\model\Foreign_Object_Detection\weights\best.pt"
 
-VIDEO_PATH = r"C:\Users\syedq\OneDrive\Desktop\Projects\raw_dataset\conveyor_foreign_material_detection\sample_videos\boardcamera_iron_ore.mp4"
+VIDEO_PATH = r"path\to\your\source\or\rtsp"
 OUTPUT_DIR = Path("output")
 
-MAX_OUTPUT_VIDEOS = 6
+MAX_OUTPUT_VIDEOS = 1  #saving output video here
 
-CONFIDENCE = 0.45
+CONFIDENCE = 0.45  
 TRACKER = "bytetrack.yaml"
 
 # Set True to use GPU automatically when CUDA is available
